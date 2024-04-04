@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "cr";
+    src: url(../fonts/Comfortaa-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "cb";
+    src: url(../fonts/Comfortaa-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "mr";
+    src: url(../fonts/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "mb";
+    src: url(../fonts/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "rr";
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "rm";
+    src: url(../fonts/Roboto-Medium.ttf);
+    font-weight: 500;
+}
